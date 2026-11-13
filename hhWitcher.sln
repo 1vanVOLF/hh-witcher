@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hhWitcher.WebAPI", "hhWitcher.WebAPI\hhWitcher.WebAPI.csproj", "{61DA40B7-1C30-4658-8B3C-B3F6CD0228E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hhWitcher.Core", "hhWitcher.Core\hhWitcher.Core.csproj", "{B17748B0-F292-42E3-B9DE-71A99D680C6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hhWitcher.BusinessLogic", "hhWitcher.BusinessLogic\hhWitcher.BusinessLogic.csproj", "{EF49B861-D25F-4835-B4B7-026D975ACF11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61DA40B7-1C30-4658-8B3C-B3F6CD0228E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61DA40B7-1C30-4658-8B3C-B3F6CD0228E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61DA40B7-1C30-4658-8B3C-B3F6CD0228E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61DA40B7-1C30-4658-8B3C-B3F6CD0228E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B17748B0-F292-42E3-B9DE-71A99D680C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B17748B0-F292-42E3-B9DE-71A99D680C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B17748B0-F292-42E3-B9DE-71A99D680C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B17748B0-F292-42E3-B9DE-71A99D680C6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF49B861-D25F-4835-B4B7-026D975ACF11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF49B861-D25F-4835-B4B7-026D975ACF11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF49B861-D25F-4835-B4B7-026D975ACF11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF49B861-D25F-4835-B4B7-026D975ACF11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
